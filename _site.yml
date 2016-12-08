@@ -4,10 +4,17 @@ navbar:
   title: "CMSC 205"
   left:
     - text: "Syllabus"
+      icon: fa-info
       href: syllabus.html
     - text: "Homework"
+      icon: fa-pencil-square
       href: homework.html
     - text: "Projects"
+      icon: fa-file-text
       href: project.html
     - text: "Resources"
+      icon: fa-life-ring
       href: resources.html
+    - text: RStudio Server
+      href: http://rstudio.lawrene.edu/
+
