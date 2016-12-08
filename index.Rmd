@@ -1,0 +1,17 @@
+---
+title: "Data-Scientific Programming"
+---
+
+## Schedule
+
+January 4
+
+#### Week One: An introduction to R
+
+January 9
+
+#### Week Two: Exploratory data analysis
+
+January 16
+
+#### Week Three: Data wrangling

@@ -1,0 +1,13 @@
+name: "cmsc-205"
+output_dir: "."
+navbar:
+  title: "CMSC 205"
+  left:
+    - text: "Syllabus"
+      href: syllabus.html
+    - text: "Homework"
+      href: homework.html
+    - text: "Projects"
+      href: project.html
+    - text: "Resources"
+      href: resources.html
