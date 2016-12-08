@@ -16,5 +16,5 @@ navbar:
       icon: fa-life-ring
       href: resources.html
     - text: RStudio Server
-      href: http://rstudio.lawrene.edu/
+      href: http://rstudio.lawrence.edu/
 
