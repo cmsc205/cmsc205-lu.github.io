@@ -11,7 +11,7 @@
 
 
 
-<title>About This Website</title>
+<title>Syllabus</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -19,6 +19,9 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-1.1/highlight.js"></script>
@@ -162,6 +165,101 @@ $(document).ready(function () {
 
 
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+  padding-left: 25px;
+  text-indent: 0;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
 
 
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
@@ -219,15 +317,82 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">About This Website</h1>
+<h1 class="title toc-ignore">Syllabus</h1>
 
 </div>
 
 
-<p>More about this website.</p>
+<p><strong>Instructor:</strong> Adam Loy</p>
+<p><strong>Email:</strong> <a href="mailto:adam.m.loy@lawrence.edu">adam.m.loy@lawrence.edu</a></p>
+<p><strong>Class Time/Location:</strong> MWF 1:50–3:00 p.m. in Briggs 421</p>
+<p><strong>Office Hours:</strong></p>
+<div id="what-is-this-course-about" class="section level3">
+<h3>What is this course about?</h3>
+<p>This class provides a practical foundation for you to compute with data in order to gain useful insights. Topics focus on elementary programming concepts in the R language and the necessary tools to handle, analyze and interpret data. Specifically, we will grapple with the key aspects of an investigation:</p>
+<ul>
+<li>Forming a statistical question</li>
+<li>Acquiring and importing data</li>
+<li>Tidying data</li>
+<li>Exploring data</li>
+<li>Modeling data</li>
+<li>Communicating the results of the analysis</li>
+</ul>
+<p>This course will be taught in a workshop format, and you will complete regular assignments and a final project that provide hands-on programming/analysis experiences.</p>
+</div>
+<div id="expected-learning-outcomes" class="section level3">
+<h3>Expected Learning Outcomes</h3>
+<p>By the end of the term you should be able to</p>
+<ul>
+<li>use R to explore and wrangle data.</li>
+<li>write functions your own functions in R.</li>
+<li>use R to model and simulate deterministic and stochastic phenomena.</li>
+<li>apply simulation-based approaches for statistical inference.</li>
+<li>understand the concept of an algorithm as a “recipe.”</li>
+<li>effectively communicate the outcome of data analysis using descriptive statistics and visualizations.</li>
+</ul>
+</div>
+<div id="materials" class="section level3">
+<h3>Materials</h3>
+<div id="required-textbook" class="section level4">
+<h4>Required Textbook</h4>
+<p>There is no required textbook to purchase for this course. Instead, we work through a list of recommended readings and tutorials.</p>
+</div>
+<div id="computing-and-software" class="section level4">
+<h4>Computing and Software</h4>
+</div>
+</div>
+<div id="evaluation" class="section level3">
+<h3>Evaluation</h3>
+<div id="homework-50" class="section level4">
+<h4>1) Homework 50%</h4>
+</div>
+<div id="final-project-40" class="section level4">
+<h4>2) Final Project 40%</h4>
+</div>
+<div id="engagement-10" class="section level4">
+<h4>3) Engagement 10%</h4>
+</div>
+</div>
+<div id="honor-code" class="section level3">
+<h3>Honor Code</h3>
+<blockquote>
+<p><em>No Lawrence student will unfairly advance their own academic performance or in any way limit or impede the academic pursuits of other students of the Lawrence community.</em></p>
+</blockquote>
+<p>All students are expected to uphold Lawrence University’s Honor Code. All work on quizzes and exams must be your own. You may collaborate on homework, but you must submit your own assignment that reflects your own thinking, work and organization. Any assignment you submit for a grade should be your own work, and not a facsimile of a classmate’s work, which would constitute academic dishonesty. To check if your homework meets this standard, imagine I asked you to explain your reasoning for each problem—you should be able to do so with ease using language similar to your submission. All written work must be accompanied by a reaffirmation of the Honor Code.</p>
+</div>
+<div id="disability-policy" class="section level3">
+<h3>Disability Policy</h3>
+<p>Lawrence University is committed to providing reasonable accommodations for students with disabilities. Students establish eligibility and request accommodations through the Center for Academic Success. View the Accessibility Services web page at <a href="go.lawrence.edu/cas" class="uri">go.lawrence.edu/cas</a> for more information.</p>
+</div>
+<div id="healthy-balance" class="section level3">
+<h3>Healthy Balance</h3>
+<p>All members of the Lawrence community—students, staff, and faculty—have the responsibility to promote balance in their lives by making thoughtful choices. Balance results from two skills: avoiding imbalance through careful planning, and managing and containing imbalance when it occurs. This course will be demanding, but should not overwhelm your academic (let alone whole) life. If it threatens to, come talk to me, a tutor, friend, counselor, or advisor.</p>
+</div>
 
 
 
+</div>
+</div>
 
 </div>
 

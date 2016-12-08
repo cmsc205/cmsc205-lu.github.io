@@ -2,6 +2,8 @@
 title: "Data-Scientific Programming"
 ---
 
+![](./_assets/pipeline.png)
+
 ## Schedule
 
 January 4

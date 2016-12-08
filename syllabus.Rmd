@@ -1,5 +1,68 @@
 ---
-title: "About This Website"
+title: "Syllabus"
+output:
+  html_document:
+    toc: true
+    toc_float: true
 ---
 
-More about this website.
+**Instructor:** Adam Loy
+
+**Email:** adam.m.loy@lawrence.edu
+
+**Class Time/Location:** MWF 1:50--3:00 p.m. in Briggs 421
+
+**Office Hours:**
+
+### What is this course about?
+
+This class provides a practical foundation for you to compute with data in order to gain useful insights. Topics focus on elementary programming concepts in the R language and the necessary tools to handle, analyze and interpret data. Specifically, we will grapple with the key aspects of an investigation:
+
+- Forming a statistical question
+- Acquiring and importing data
+- Tidying data
+- Exploring data
+- Modeling data
+- Communicating the results of the analysis
+
+This course will be taught in a workshop format, and you will complete regular assignments and a final project that provide hands-on programming/analysis experiences. 
+
+### Expected Learning Outcomes
+
+By the end of the term you should be able to 
+
+- use R to explore and wrangle data.
+- write functions your own functions in R.
+- use R to model and simulate deterministic and stochastic phenomena.
+- apply simulation-based approaches for statistical inference.
+- understand the concept of an algorithm as a "recipe."
+- effectively communicate the outcome of data analysis using descriptive statistics and visualizations.
+
+### Materials
+
+#### Required Textbook
+
+There is no required textbook to purchase for this course. Instead, we work through a list of recommended readings and tutorials.
+
+#### Computing and Software
+
+
+
+### Evaluation
+
+#### 1) Homework 50%
+
+#### 2) Final Project 40%
+
+#### 3) Engagement 10%
+
+### Honor Code
+> *No Lawrence student will unfairly advance their own academic performance or in any way limit or impede the academic pursuits of other students of the Lawrence community.* 
+
+All students are expected to uphold Lawrence University’s Honor Code. All work on quizzes and exams must be your own. You may collaborate on homework, but you must submit your own assignment that reflects your own thinking, work and organization. Any assignment you submit for a grade should be your own work, and not a facsimile of a classmate’s work, which would constitute academic dishonesty. To check if your homework meets this standard, imagine I asked you to explain your reasoning for each problem—you should be able to do so with ease using language similar to your submission. All written work must be accompanied by a reaffirmation of the Honor Code.
+
+### Disability Policy
+Lawrence University is committed to providing reasonable accommodations for students with disabilities. Students establish eligibility and request accommodations through the Center for Academic Success. View the Accessibility Services web page at [go.lawrence.edu/cas](go.lawrence.edu/cas) for more information.
+
+### Healthy Balance
+All members of the Lawrence community—students, staff, and faculty—have the responsibility to promote balance in their lives by making thoughtful choices. Balance results from two skills: avoiding imbalance through careful planning, and managing and containing imbalance when it occurs. This course will be demanding, but should not overwhelm your academic (let alone whole) life. If it threatens to, come talk to me, a tutor, friend, counselor, or advisor.
