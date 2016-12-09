@@ -2,7 +2,7 @@
 title: "Data-Scientific Programming"
 ---
 
-![](./_assets/pipeline.png)
+<img src="./_assets/pipeline.png" alt="Drawing" style="width: 700px;" border="1"/>
 
 ## Schedule
 
