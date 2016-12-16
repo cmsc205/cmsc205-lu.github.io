@@ -8,7 +8,7 @@ title: "Data-Scientific Programming"
 
 January 4
 
-#### Week One: An introduction to R
+#### [Week One: An introduction to R](week01.html)
 
 January 9
 
