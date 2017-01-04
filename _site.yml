@@ -17,3 +17,6 @@ navbar:
       href: resources.html
     - text: RStudio Server
       href: http://rstudio.lawrence.edu/
+    - text: "Piazza"
+      icon:
+      href: piazza.com/lawrence/winter2017/cmsc205/home
