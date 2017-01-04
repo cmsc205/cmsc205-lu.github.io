@@ -1,13 +1,21 @@
 ---
 title: "Week 1: Introduction to data science"
+output:
+  html_document:
+    toc: yes
+    toc_float: yes
+    toc_depth: 2
 ---
 
 ## Wednesday, Jan 4
 
 ### Introduction to the course and R
 
+* [Slides](http://htmlpreview.github.io/?https://github.com/cmsc205/notes/blob/master/day01/lec01.html#1) (To print the slides or create a PDF version you can print from Google Chrome)
 
-### For next time...
+* [R notebook](https://raw.githubusercontent.com/cmsc205/notes/master/day01/first-session.Rmd) (Right click and download the linked file)
+
+### For next class
 
 #### DataCamp
 
@@ -86,10 +94,10 @@ GitHub is a web-based Git repository hosting system.
         + `ewenharrison` with your GitHub login.
 
 
+
 ## Friday, Jan 6
 
-
-### For next time...
+### For next class
 
 #### DataCamp
 
