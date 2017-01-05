@@ -54,10 +54,6 @@ Please complete the following steps before the next lecture to get set up for th
 A PDF document should pop-up. Then
 
 1. Click on the downward point black arrow next to the Knit button and select Knit to HTML
-2. On the top right of the pop-up click "Publish"
-3. Select RPubs -> Publish
-4. Your browser should pop-up. Create an account on RPubs.
-5. Give your file an arbitrary title and a desired URL.
 
 The same analysis as the PDF above should appear on a webpage.
 
