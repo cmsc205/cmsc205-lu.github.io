@@ -93,8 +93,6 @@ GitHub is a web-based Git repository hosting system.
 
 ## Friday, Jan 6
 
-### For next class
-
-#### DataCamp
+No class -- Prof. Loy sick
 
 Complete chapters 3--5 of [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r).

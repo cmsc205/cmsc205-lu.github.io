@@ -1,0 +1,27 @@
+---
+title: "Week 2: Exploratory graphics"
+output:
+  html_document
+---
+
+## Wednesday, Jan 9
+
+#### Introduction to `ggplot2`
+
+* [Slides](http://htmlpreview.github.io/?https://github.com/cmsc205/notes/blob/master/day02/ggplot-notes.html)
+
+* [Births78.csv](https://github.com/cmsc205/data/raw/master/Birth78.csv)
+
+
+#### For next time
+
+* Complete chapters 3--5 of [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r).
+
+* Read about bar charts, boxplots, density plots, histograms, line charts, and scatterplots on [The Data Visualisation Catalogue](http://www.datavizcatalogue.com/).
+
+
+## Wednesday, Jan 11
+
+
+## Friday, Jan 13
+

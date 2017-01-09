@@ -12,7 +12,7 @@ January 4
 
 January 9
 
-#### Week Two: Exploratory data analysis
+#### [Week Two: Exploratory data analysis](week02.html)
 
 January 16
 
