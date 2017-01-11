@@ -22,6 +22,12 @@ output:
 
 ## Wednesday, Jan 11
 
+#### More about `ggplot2`
+
+* [R notebook](https://github.com/cmsc205/notes/raw/master/day03/ggplot2-continued.Rmd)
+
+* [saratoga.csv](https://github.com/cmsc205/data/raw/master/saratoga.csv)
+
 
 ## Friday, Jan 13
 
