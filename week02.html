@@ -243,14 +243,28 @@ $(document).ready(function () {
 <li><p>Read about bar charts, boxplots, density plots, histograms, line charts, and scatterplots on <a href="http://www.datavizcatalogue.com/">The Data Visualisation Catalogue</a>.</p></li>
 </ul>
 </div>
+<div id="after-class-updates" class="section level4">
+<h4>After-class updates</h4>
+<p>As pointed out in class, we need to manually convert the <code>date</code> column of the data set from a character vector to a date format. The below code chunk can be used to read in the data set and complete this conversion:</p>
+<pre class="r"><code>library(lubridate) # for the as_date function
+
+# Read in and convert
+Births78 &lt;- read.csv(&quot;https://github.com/cmsc205/data/raw/master/Birth78.csv&quot;)
+Births78$date &lt;- as_date(Births78$date)
+
+# Check the structure to make sure that date is of the Date format</code></pre>
+</div>
 </div>
 <div id="wednesday-jan-11" class="section level2">
 <h2>Wednesday, Jan 11</h2>
 <div id="more-about-ggplot2" class="section level4">
 <h4>More about <code>ggplot2</code></h4>
 <ul>
-<li><p><a href="https://github.com/cmsc205/notes/raw/master/day03/ggplot2-continued.Rmd">R notebook</a></p></li>
-<li><p><a href="https://github.com/cmsc205/data/raw/master/saratoga.csv">saratoga.csv</a></p></li>
+<li><a href="https://github.com/cmsc205/notes/raw/master/day03/ggplot2-continued.Rmd">R notebook</a>
+<ul>
+<li><a href="https://github.com/cmsc205/notes/raw/master/day03/ggplot2-continued-sol.Rmd">Completed R notebook</a> from class</li>
+</ul></li>
+<li><a href="https://github.com/cmsc205/data/raw/master/saratoga.csv">saratoga.csv</a></li>
 </ul>
 </div>
 </div>

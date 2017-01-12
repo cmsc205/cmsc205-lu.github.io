@@ -19,12 +19,27 @@ output:
 
 * Read about bar charts, boxplots, density plots, histograms, line charts, and scatterplots on [The Data Visualisation Catalogue](http://www.datavizcatalogue.com/).
 
+#### After-class updates
+
+As pointed out in class, we need to manually convert the `date` column of the data set from a character vector to a date format. The below code chunk can be used to read in the data set and complete this conversion:
+
+```{r eval=FALSE}
+library(lubridate) # for the as_date function
+
+# Read in and convert
+Births78 <- read.csv("https://github.com/cmsc205/data/raw/master/Birth78.csv")
+Births78$date <- as_date(Births78$date)
+
+# Check the structure to make sure that date is of the Date format
+```
+
 
 ## Wednesday, Jan 11
 
 #### More about `ggplot2`
 
-* [R notebook](https://github.com/cmsc205/notes/raw/master/day03/ggplot2-continued.Rmd)
+* [R notebook](https://github.com/cmsc205/notes/raw/master/day03/ggplot2-continued.Rmd) 
+    - [Completed R notebook](https://github.com/cmsc205/notes/raw/master/day03/ggplot2-continued-sol.Rmd) from class
 
 * [saratoga.csv](https://github.com/cmsc205/data/raw/master/saratoga.csv)
 
