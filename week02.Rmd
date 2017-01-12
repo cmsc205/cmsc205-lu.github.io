@@ -4,7 +4,7 @@ output:
   html_document
 ---
 
-## Wednesday, Jan 9
+## Monday, Jan 9
 
 #### Introduction to `ggplot2`
 
