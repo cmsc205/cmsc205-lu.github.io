@@ -46,3 +46,10 @@ Births78$date <- as_date(Births78$date)
 
 ## Friday, Jan 13
 
+#### Customizing graphics
+
+* [Warm up activity](https://github.com/cmsc205/notes/raw/master/day04/Economist-Graph.pdf)
+
+* [R notebook](https://raw.githubusercontent.com/cmsc205/notes/master/day04/customizing-plots.Rmd)
+
+* Data for today: [ScorecardSmallNarrow.csv](https://github.com/cmsc205/data/raw/master/ScorecardSmallNarrow.csv), [top10babynames2014.csv](https://github.com/cmsc205/data/raw/master/top10babynames2014.csv)
