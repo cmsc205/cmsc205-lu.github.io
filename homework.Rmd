@@ -4,4 +4,6 @@ title: "Homework"
 
 You'll be submitting your homework on GitHub. If you're using the R Studio server, then you'll need to manually upload files. (Sorry! we're working on an update for next year.) If you need help with GitHub, check out [Happy Git and GitHub for the useR](http://happygitwithr.com/).
 
-* [HW1](https://classroom.github.com/assignment-invitations/3571a1c98f9b2bf395457bdcb3422ebe) (due 1/13 by 11:59 pm)
+* [HW1](https://classroom.github.com/assignment-invitations/3571a1c98f9b2bf395457bdcb3422ebe) (due 1/13 by 11:59 p.m.)
+
+* [HW2](https://classroom.github.com/assignment-invitations/0bbf3e623eaac955261f62dd0e5e77ae) (due 1/18 by 1:50 p.m.)
