@@ -13,7 +13,7 @@ output:
 
 #### Visual Perception
 
-* [Slides](https://github.com/cmsc205/notes/blob/master/day02/perception-slides.pdf)
+* [Slides](https://github.com/cmsc205/notes/blob/master/day05/perception-slides.pdf)
 
 
 #### For next time
