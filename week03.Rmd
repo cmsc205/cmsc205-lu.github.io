@@ -26,3 +26,15 @@ output:
 ## Friday, Jan 20
 
 #### Tidy data
+
+* Download the [.Rmd file](https://raw.githubusercontent.com/cmsc205/notes/master/day06/IntroTidyData.Rmd)
+
+* Download the data sets [here](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/cmsc205/notes/tree/master/day06/data). If you are on a Mac, then you should use either Chrome or Firefox to download the zip file.
+
+* Start up instructions
+    
+    1. Download the .Rmd file and the data sets.
+    2. Start a new project in R Studio for today's class.
+    3. If you are working on the server, then upload the .Rmd file and the zip file with the data sets (**before** unzipping them). If you are working on your own computer, move the downloaded files to the project folder and unzip the data set file (but leave the files in the data folder).
+    4. You're ready to work!
+    
