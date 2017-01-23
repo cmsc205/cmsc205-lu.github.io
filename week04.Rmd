@@ -1,0 +1,22 @@
+---
+title: 'Week 4: Data Wrangling'
+output:
+  html_document
+---
+
+## Monday, Jan 23
+
+#### Introduction to `dplyr`
+
+* [Slides](http://htmlpreview.github.io/?https://github.com/cmsc205/notes/blob/master/day07/wrangling2.html)
+* Data sets: [frenchfries.csv](https://github.com/cmsc205/data/raw/master/frenchfries.csv), [colleges2015.csv](https://github.com/cmsc205/data/raw/master/colleges2015.csv)
+
+#### For next time
+
+* Complete the [Data Manipulation in R with dplyr](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial) DataCamp course (estimated time: 4 hours)
+
+
+## Wednesday, Jan 25
+
+
+## Friday, Jan 27
