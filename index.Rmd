@@ -17,3 +17,7 @@ January 9
 January 16
 
 #### [Week Three: Perception + Data wrangling](week03.html)
+
+January 23
+
+#### [Week Four: Data wrangling](week04.html)
