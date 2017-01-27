@@ -10,4 +10,4 @@ You'll be submitting your homework on GitHub. If you're using the R Studio serve
 
 * [HW3](https://classroom.github.com/assignment-invitations/c1940c617b40c3090ae55efc920f6ba7) (due 1/23 by 1:50 p.m.)
 
-* HW4 (due 2/3 by 11:59 p.m.)
+* [HW4](https://classroom.github.com/group-assignment-invitations/6242e7297bd75c3e53aff0d7d6e9c6b5) (due 2/3 by 11:59 p.m.)
