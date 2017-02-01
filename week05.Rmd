@@ -19,8 +19,11 @@ output:
 
 #### Introduction to scraping data from the web with `rvest`
 
+* R notebook: [(View)](http://htmlpreview.github.io/?https://github.com/cmsc205/notes/blob/master/day10/web_scraping.nb.html)  <a href="https://raw.githubusercontent.com/cmsc205/notes/master/day10/web_scraping.Rmd" download>(Download)</a>
 
+#### For next time
 
+Finish the homework assignment
 
 ## Friday, Jan 27
 
