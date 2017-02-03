@@ -34,3 +34,15 @@ Finish the homework assignment
 ## Friday, Jan 27
 
 #### Introduction to programming structures
+
+* Loops R notebook: [(View)](http://htmlpreview.github.io/?https://github.com/cmsc205/notes/blob/master/day11/loops.nb.html)  <a href="https://raw.githubusercontent.com/cmsc205/notes/master/day11/loops.Rmd" download>(Download)</a>
+
+* Bootstrap R notebook: [(View)](http://htmlpreview.github.io/?https://github.com/cmsc205/notes/blob/master/day11/bootstrap.nb.html)  <a href="https://raw.githubusercontent.com/cmsc205/notes/master/day11/bootstrap.Rmd"download>(Download)</a>
+
+* [sf2016.csv](https://github.com/cmsc205/notes/raw/master/day11/sf2016.csv)
+
+#### For next time
+
+* Chapters 1 and 2 of [Intermediate R](https://www.datacamp.com/courses/intermediate-r) DataCamp course
+
+* Work on [project](project.html) proposal
