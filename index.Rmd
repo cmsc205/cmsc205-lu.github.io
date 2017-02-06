@@ -25,3 +25,7 @@ January 23
 January 30
 
 #### [Week Five: Text data + scraping + programming structures](week05.html)
+
+February 6
+
+#### [Week Six: The bootstrap + writing functions](week06.html)
