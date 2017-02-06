@@ -8,9 +8,9 @@ output:
 
 #### Introduction to the bootstrap
 
-* Bootstrap R notebook: [(View)](http://htmlpreview.github.io/?https://github.com/cmsc205/notes/blob/master/day11/bootstrap.nb.html)  <a href="https://raw.githubusercontent.com/cmsc205/notes/master/day11/bootstrap.Rmd"download>(Download)</a>
+* Bootstrap R notebook: [(View)](http://htmlpreview.github.io/?https://github.com/cmsc205/notes/blob/master/day12/bootstrap.nb.html)  <a href="https://raw.githubusercontent.com/cmsc205/notes/master/day12/bootstrap.Rmd"download>(Download)</a>
 
-* [sf2016.csv](https://github.com/cmsc205/notes/raw/master/day11/sf2016.csv)
+* [sf2016.csv](https://github.com/cmsc205/notes/raw/master/day12/sf2016.csv)
 
 #### For next time
 
