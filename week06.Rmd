@@ -33,6 +33,10 @@ output:
 
 * Work on [project](project.html) proposal
 
+* Chapters 1 and 2 of [Writing Functions in R](https://www.datacamp.com/courses/writing-functions-in-r) DataCamp tutorial.
+
+* Check out [Hadley Wickham's style guide](http://adv-r.had.co.nz/Style.html) and [Google's style guide](https://google.github.io/styleguide/Rguide.xml). Pick your favorite and stick with the conventions outlined for the rest of the term.
+
 
 ## Friday, Feb 10
 
