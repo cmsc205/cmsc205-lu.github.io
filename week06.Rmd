@@ -25,7 +25,7 @@ output:
 
 #### Writing functions
 
-* R notebook
+* R notebook [(View)](http://htmlpreview.github.io/?https://github.com/cmsc205/notes/blob/master/day13/functions.nb.html)  <a href="https://raw.githubusercontent.com/cmsc205/notes/master/day13/functions.Rmd"download>(Download)</a>
 
 
 #### For next time
