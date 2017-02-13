@@ -29,3 +29,7 @@ January 30
 February 6
 
 #### [Week Six: The bootstrap + writing functions](week06.html)
+
+February 13
+
+#### [Week Seven: Functions + classification](week07.html)
