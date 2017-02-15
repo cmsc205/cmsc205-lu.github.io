@@ -20,12 +20,14 @@ output:
 
 #### Introduction to classification problems
 
-* R notebook 
+* k-nearest neighbors R notebook  [(View)](http://htmlpreview.github.io/?https://github.com/cmsc205/notes/blob/master/day14/classification.nb.html)  <a href="https://raw.githubusercontent.com/cmsc205/notes/master/day14/classification.Rmd"download>(Download)</a>
+
+* [ckd.csv](https://raw.githubusercontent.com/cmsc205/notes/master/day14/data/ckd.csv)
 
 
 #### For next time
 
-TBA
+Review notes
 
 
 ## Friday, Feb 17
