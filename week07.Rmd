@@ -34,8 +34,11 @@ Review notes
 
 #### Classification
 
-* R notebook 
+* K-nearest neighbors example <a href="https://raw.githubusercontent.com/cmsc205/notes/master/day15/knn-activity.Rmd"download>(R notebook)</a> [(Caravan.csv)](https://raw.githubusercontent.com/cmsc205/notes/master/day15/Caravan.csv)
+
+* Introduction to classification trees [(Slides)](http://htmlpreview.github.io/?https://github.com/cmsc205/notes/blob/master/day15/classification-trees.html)  <a href="https://raw.githubusercontent.com/cmsc205/notes/master/day15/classification-trees.Rmd"download>(.Rmd)</a>
+
 
 #### For next time
 
-TBA
+Review notes
