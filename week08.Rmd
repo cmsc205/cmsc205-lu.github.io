@@ -10,7 +10,7 @@ output:
 
 * Introduction to classification trees [(Slides)](http://htmlpreview.github.io/?https://github.com/cmsc205/notes/blob/master/day16/classification-trees.html)  <a href="https://raw.githubusercontent.com/cmsc205/notes/master/day16/classification-trees.Rmd"download>(.Rmd)</a>
 
-* Activity <a href="classification-tree-lab"download>R notebook</a>, [Carseats.csv](https://raw.githubusercontent.com/cmsc205/notes/master/day16/Carseats.csv)
+* Activity <a href="https://raw.githubusercontent.com/cmsc205/notes/master/day16/classification-tree-lab.Rmd"download>R notebook</a>, [Carseats.csv](https://raw.githubusercontent.com/cmsc205/notes/master/day16/Carseats.csv)
 
 #### For next time
 
