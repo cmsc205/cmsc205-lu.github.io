@@ -18,7 +18,13 @@ Review notes
 
 ## Wednesday, Feb 22
 
-#### TBA
+#### Bagging and random forests
+
+* From trees to forests [(Slides)](http://htmlpreview.github.io/?https://github.com/cmsc205/notes/blob/master/day17/random-forests.html)  <a href="https://raw.githubusercontent.com/cmsc205/notes/master/day17/random-forests.Rmd"download>(.Rmd)</a>
+
+#### For next time
+
+Work on the homework
 
 
 ## Friday, Feb 24
