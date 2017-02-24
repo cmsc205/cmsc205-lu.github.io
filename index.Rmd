@@ -36,4 +36,4 @@ February 13
 
 February 20
 
-#### [Week Eight: Classification](week08.html)
+#### [Week Eight: Classification + interactive reports](week08.html)
