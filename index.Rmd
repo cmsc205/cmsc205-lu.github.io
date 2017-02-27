@@ -36,4 +36,8 @@ February 13
 
 February 20
 
-#### [Week Eight: Classification](week08.html)
+#### [Week Eight: Classification + shiny apps](week08.html)
+
+February 20
+
+#### [Week Nine: Shiny apps](week09.html)

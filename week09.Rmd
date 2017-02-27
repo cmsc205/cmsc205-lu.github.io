@@ -1,10 +1,10 @@
 ---
-title: 'Week 8: Classification + interactive reports'
+title: 'Week 9: Shiny apps'
 output:
   html_document
 ---
 
-## Monday, Feb 20
+## Monday, Feb 27
 
 #### Classification trees
 
@@ -16,17 +16,10 @@ output:
 
 Review notes
 
-## Wednesday, Feb 22
-
-#### Bagging and random forests
-
-* From trees to forests [(Slides)](http://htmlpreview.github.io/?https://github.com/cmsc205/notes/blob/master/day17/random-forests.html)  <a href="https://raw.githubusercontent.com/cmsc205/notes/master/day17/random-forests.Rmd"download>(.Rmd)</a>
-
-#### For next time
-
-Work on the homework
+## Wednesday, Mar 1
 
 
-## Friday, Feb 24
+
+## Friday, Mar 3
 
 #### TBA
