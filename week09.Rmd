@@ -6,19 +6,30 @@ output:
 
 ## Monday, Feb 27
 
-#### Classification trees
+#### A second shiny app
 
-* Introduction to classification trees [(Slides)](http://htmlpreview.github.io/?https://github.com/cmsc205/notes/blob/master/day16/classification-trees.html)  <a href="https://raw.githubusercontent.com/cmsc205/notes/master/day16/classification-trees.Rmd"download>(.Rmd)</a>
+Materials for class:
 
-* Activity <a href="https://raw.githubusercontent.com/cmsc205/notes/master/day16/classification-tree-lab.Rmd"download>R notebook</a>, [Carseats.csv](https://raw.githubusercontent.com/cmsc205/notes/master/day16/Carseats.csv)
+* <a href="https://raw.githubusercontent.com/cmsc205/notes/master/day19/exercise2.Rmd"download>Notes</a>
+* [sf2016_sample.csv](https://github.com/cmsc205/notes/raw/master/day19/sf2016_sample.csv) 
+
+Resources for shiny:
+
+* [Shiny tutorial](http://shiny.rstudio.com/tutorial/)
+* [Shiny cheat sheet](http://shiny.rstudio.com/images/shiny-cheatsheet.pdf)
+* [Shiny gallery](https://shiny.rstudio.com/gallery/)
+
+
 
 #### For next time
 
-Review notes
+Review notes on shiny
+
+
 
 ## Wednesday, Mar 1
 
-
+#### TBA
 
 ## Friday, Mar 3
 
