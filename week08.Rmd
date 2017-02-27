@@ -29,4 +29,18 @@ Work on the homework
 
 ## Friday, Feb 24
 
-#### TBA
+#### Interactive apps with shiny
+
+Materials for class:
+
+* Install the `shiny` package
+* [babynames.csv](https://github.com/cmsc205/data/raw/master/babynames.csv) (if you're not on the server, then downloade the `babynames` package instead)
+* [Example prompt](http://htmlpreview.github.io/?https://github.com/cmsc205/notes/blob/master/day18/exercise-slide.html#1)
+
+Resources for shiny:
+
+* [Shiny tutorial](http://shiny.rstudio.com/tutorial/)
+* [Shiny cheat sheet](http://shiny.rstudio.com/images/shiny-cheatsheet.pdf)
+* [Shiny gallery](https://shiny.rstudio.com/gallery/)
+
+
