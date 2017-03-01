@@ -29,8 +29,10 @@ Review notes on shiny
 
 ## Wednesday, Mar 1
 
-#### TBA
+#### Shiny app for the one-sample bootstrap
+
+[My solution](https://github.com/cmsc205/notes/blob/master/day19/exercise2-sol.Rmd)
 
 ## Friday, Mar 3
 
-#### TBA
+#### Project workshop
