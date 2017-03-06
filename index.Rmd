@@ -41,3 +41,7 @@ February 20
 February 27
 
 #### [Week Nine: Shiny apps](week09.html)
+
+March 6
+
+#### [Week Ten: Maps + projects](week10.html)
