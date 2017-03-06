@@ -139,8 +139,11 @@ Visualizations, particularly interactive ones, will be well-received. That said,
 
 I expect you to write high-quality and readable R code as part of your final report. You should strive to do things the right way and think about aspects such as reusability, error handling, etc. I also expect you to comment your code.
 
+### Rubrics
 
+* [Presentation rubric](https://docs.google.com/spreadsheets/d/1po3LOj-hWa5ZvI6QkXnFRx7tFNwx0OAjdCVbBvkbR-Y/edit?usp=sharing)
 
+* [Report rubric](https://docs.google.com/spreadsheets/d/1x8aLGfhiVSRyP4ATaa7pGMkfRBZgA9vFbWJSFGi8uzo/edit?usp=sharing)
 
 
 ### Acknowledgements 
